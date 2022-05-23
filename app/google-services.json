@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "950075570982",
+    "project_id": "agence-marketplace",
+    "storage_bucket": "agence-marketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950075570982:android:06b1789d567b96c5a2dfe7",
+        "android_client_info": {
+          "package_name": "com.agence.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950075570982-3b5p1gjfc1nl3tde70hpld2numqsi7bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agence.marketplace",
+            "certificate_hash": "85eec4f7c82c35188a19e43fdf245bb5d97182d0"
+          }
+        },
+        {
+          "client_id": "950075570982-l3rvq88ahpl5burj9nqmvlf1s78vdbk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOZkd1rbkwdppuGdR8n-hmtDh5DPvbhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950075570982-l3rvq88ahpl5burj9nqmvlf1s78vdbk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

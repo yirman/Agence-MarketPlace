@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Agence MarketPlace</string>
+    <string name="web_client_id">950075570982-l3rvq88ahpl5burj9nqmvlf1s78vdbk9.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="password">Clave</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="profile">Mi perfil</string>
+    <string name="my_products">Mis Productos</string>
+    <string name="settings">Configuraciones</string>
+    <string name="product_detail">Detalle de Producto</string>
+    <string name="ask_confirm_buy">¿Desea confirmar la compra de %1s?</string>
+    <string name="success_buy">Compra realizada correctamente</string>
+
+
+    <string name="facebook_app_id">1049091442710351</string>
+    <string name="fb_login_protocol_scheme">fb1049091442710351</string>
+    <string name="facebook_client_token">57651ef743d4439c61a04f2083cecf71</string>
+
+    <string name="buy_now">Comprar ahora</string>
+    <string name="me">Yo</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="allow_location_permission">Conceder permisos de ubicación</string>
+    <string name="allow">Permitir</string>
+
+
+</resources>
